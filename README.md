@@ -1,4 +1,4 @@
-# shipitdudemouse &mdash; If you must ship it, ship it good.
+# shipitdudemouse &mdash; If you must ship it, ship it dudemouse.
 
 [shipitdudemouse](https://github.com/cmeiklejohn/shipitdudemouse) is a simple way to remind yourself of what's important in life.  Managing your attention is critical in this Internet age, and shipitdudemouse is the *only* way to make sure you stay focused enough to ship it like a true dudemouse.
 
