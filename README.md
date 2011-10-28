@@ -10,7 +10,7 @@ Clearly, building a "ship it" culture in your organization is critical.  But pro
 
 ## What is a dudemouse?
 
-It's a fucking dudemouse.
+[Are you fucking shitting me?](https://github.com/mattgillooly/shipitdudemouse/raw/add_readme/dudemouse.jpg)
 
 ## Authors
 
