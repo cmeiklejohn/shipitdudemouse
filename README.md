@@ -6,10 +6,11 @@
 
 Ancient Celtic soothsayers often spoke of a great ship that would come, bearing Patrick Ewing.  That ship has come and gone, and now it is time for you to make your own damn ship.  Like Noah.  Yeah, I probably should have riffed on Noah instead.
 
+Clearly, building a "ship it" culture in your organization is critical.  But process is meaningless without tools.  This is where [shipitdudemouse](https://github.com/cmeiklejohn/shipitdudemouse) comes in.
+
 ## What is a dudemouse?
 
 It's a fucking dudemouse.
-
 
 ## Authors
 
