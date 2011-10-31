@@ -12,6 +12,15 @@ Clearly, building a "ship it" culture in your organization is critical.  But pro
 
 [Are you fucking shitting me?](https://github.com/mattgillooly/shipitdudemouse/raw/add_readme/dudemouse.jpg)
 
+## Usage
+
+To run shipitdudemouse locally, clone the repo and run:
+
+    bundle
+    bundle exec shotgun
+
+The server will be listening on http://localhost:9393
+
 ## Authors
 
 * [Chris "The Dudemouse" Meiklejohn](https://github.com/cmeiklejohn)
